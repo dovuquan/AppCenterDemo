@@ -22,5 +22,8 @@
     {
       "path": "../../libs/ui-heading/tsconfig.json"
     },
+    {
+      "path": "../../libs/shared-ui-layout/tsconfig.json"
+    },
   ]
 }
