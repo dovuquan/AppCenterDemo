@@ -9,10 +9,17 @@
     "react-native": "*",
     "react-native-config": "*",
     "react-native-svg": "*",
+    "react-dom": "*",
     "@nrwl/react-native": "*",
     "react-native-svg-transformer": "*",
     "metro-config": "*",
+    "@react-native-community/cli": "*",
+    "@react-native-community/cli-platform-android": "*",
+    "@react-native-community/cli-platform-ios": "*",
     "@react-native-async-storage/async-storage": "*",
-    "@testing-library/react": "*"
+    "@testing-library/react": "*",
+    "@types/react-native": "*",
+    "metro-react-native-babel-preset": "*",
+    "metro-react-native-babel-transformer": "*"
   }
 }
