@@ -9,6 +9,7 @@
     "react-native": "*",
     "react-native-config": "*",
     "react-native-svg": "*",
+    "@nrwl/react-native": "*",
     "metro-config": "*",
     "@react-native-async-storage/async-storage": "*",
     "@testing-library/react": "*"
