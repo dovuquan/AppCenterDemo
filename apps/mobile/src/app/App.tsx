@@ -11,7 +11,6 @@ import {
   Linking,
 } from "react-native";
 import Svg, { Path } from "react-native-svg";
-import { Layout } from '@demonx/shared-ui-layout';
 import { UiHeading } from '@demonx/ui-heading';
 
 export const App = () => {
@@ -35,7 +34,6 @@ export const App = () => {
               Welcome Mobile 👋
             </Text>
             <UiHeading text="Hello World!" />
-            <Layout />
           </View>
           <View style={styles.section}>
             <View style={styles.hero}>
