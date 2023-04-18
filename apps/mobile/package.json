@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "@nrwl/react-native": "15.9.2",
+    "@nrwl/react-native": "*",
     "@react-native-async-storage/async-storage": "*",
     "@react-native-community/cli": "*",
     "@react-native-community/cli-platform-android": "*",
@@ -17,7 +17,7 @@
     "metro-react-native-babel-transformer": "*",
     "react": "*",
     "react-dom": "*",
-    "react-native": "0.71.4",
+    "react-native": "*",
     "react-native-config": "*",
     "react-native-svg": "*",
     "react-native-svg-transformer": "*"
