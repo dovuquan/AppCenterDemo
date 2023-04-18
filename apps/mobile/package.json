@@ -10,6 +10,7 @@
     "react-native-config": "*",
     "react-native-svg": "*",
     "@nrwl/react-native": "*",
+    "react-native-svg-transformer": "*",
     "metro-config": "*",
     "@react-native-async-storage/async-storage": "*",
     "@testing-library/react": "*"
