@@ -11,14 +11,20 @@
     "declaration": true
   },
   "files": ["../../node_modules/@nrwl/react-native/typings/svg.d.ts"],
-  "include": [],
+  "include": [
+    "../../libs/ui-heading/**/*.ts",
+    "../../libs/ui-heading/**/*.tsx",
+  ],
   "references": [
     {
       "path": "./tsconfig.app.json"
     },
     {
       "path": "./tsconfig.spec.json"
-    }
+    },
+    {
+      "path": "../../libs/ui-heading/tsconfig.json"
+    },
   ],
   "exclude": ["node_modules"]
 }
