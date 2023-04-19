@@ -17,6 +17,7 @@
     "src/**/*.jsx",
     "next-env.d.ts",
     "../../libs/ui-heading/**/*.ts",
+    "../../libs/ui-heading/**/*.tsx",
   ],
   "references": [
     {
