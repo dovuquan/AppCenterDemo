@@ -11,7 +11,7 @@ import {
   Linking,
 } from "react-native";
 import Svg, { Path } from "react-native-svg";
-import { UiHeading } from 'libs/ui-heading/src';
+import { UiHeading } from '@demonx/ui-heading';
 // import { Layout } from "@demonx/shared-ui-layout";
 
 export const App = () => {
