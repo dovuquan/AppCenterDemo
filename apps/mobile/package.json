@@ -13,6 +13,7 @@
     "@testing-library/react-native": "*",
     "@types/react-native": "*",
     "metro-config": "*",
+    "react-native-reanimated": "*",
     "metro-react-native-babel-preset": "*",
     "metro-react-native-babel-transformer": "*",
     "react": "*",
